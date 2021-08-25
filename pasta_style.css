@@ -1,0 +1,26 @@
+html, body{
+    background-image: url(pasta.jpg);
+    height: 100%;
+}
+.site-header{
+    width: 100%
+}
+#MainPageImg{
+    width: 80%
+}
+.myLinks{
+    color:white;
+    font-weight: 800;
+    font-size:large;
+}
+#teamCopyright{
+    font-weight: 800;
+    font-size:large;
+   }
+#flag{
+    width: 450px; 
+ }
+ 
+ #pastabowl{
+     width:400px;
+ }
