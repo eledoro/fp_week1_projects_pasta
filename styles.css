@@ -9,3 +9,14 @@
     color:white;
     font-weight: 800;
     font-size:large;
+}
+@media only screen and (orientation:portrait){
+    #pastabowl {
+        display:none
+    }
+}
+@media only screen and (orientation:portrait){
+    #flag {
+        display:none
+    }
+}
